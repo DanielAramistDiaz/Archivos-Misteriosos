@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Titulo.unity
+    guid: 1885db55fa9237b41a9de1584fbc966c
+  - enabled: 1
+    path: Assets/Scenes/Salir.unity
+    guid: 31c02809392522048922bfdab71a6b4b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 1.unity
+    guid: 9a040dd1c25aea648b6b10fba8c7bbba
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 2.unity
+    guid: 13f9f4d02d58ca04883b5a264827fee6
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 3.unity
+    guid: 1969f1d0a62bc4b4d98578ebffa5fb9b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 4.unity
+    guid: 89cfbc22a6988c44cbf32ab70b8c1453
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 5.unity
+    guid: f3ae1b9495510f74b9c69b78c84cccf7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 6.unity
+    guid: 327573f49b90dde4bb443248a5360848
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 7.unity
+    guid: bd74e67ac9584da43b2e0a96d5158014
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.unity
+    guid: bb8f288bc0cea9745ba68c2d74b4816b
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: 7484fc4601a0f8847882f453bfd75305
+  - enabled: 1
+    path: Assets/Scenes/Nivel 3.unity
+    guid: 0819e7831f43cdb43883c9e526bf840e
+  - enabled: 1
+    path: Assets/Scenes/Nivel 4.unity
+    guid: 91489082e3d054d479eb485e91cc0f61
+  - enabled: 1
+    path: Assets/Scenes/Nivel 5.unity
+    guid: 07a220719d2c4784b90fcaf5b8983a6d
+  - enabled: 1
+    path: Assets/Scenes/Nivel 6.unity
+    guid: 000fb26da03c5ca49b22728b7511c3a0
+  - enabled: 1
+    path: Assets/Scenes/Nivel 7.unity
+    guid: cdb8e63882d09454a8536d613612024d
+  - enabled: 1
+    path: Assets/Scenes/Nivel 8.unity
+    guid: d6c7a838eba966542ac0073beec677e4
+  - enabled: 1
+    path: Assets/Scenes/Nivel 9.unity
+    guid: 945016d15e82cdb4fb86ffab27532fee
+  - enabled: 1
+    path: Assets/Scenes/Nivel 10.unity
+    guid: 52a5647202ff41c4a847ac35cb4bbbe8
+  - enabled: 1
+    path: Assets/Scenes/Titulo Felicitaciones.unity
+    guid: 726f57a2176f9a94987fae2cb3d3ff58
+  m_configObjects: {}
